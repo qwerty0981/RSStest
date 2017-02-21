@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Test 1</title>
+    <link>https://github.com/qwerty0981/RSStest</link>
+    <description />
+    <language>en-us</language>
+    <item>
+      <title>Lunch</title>
+      <pubDate>Tue, 21 Feb 2017 02:10:05 -0500</pubDate>
+      <category>Food</category>
+      <description><![CDATA[Lunch will be served at 12:00]]></description>
+    </item>
+  </channel>
+</rss>
